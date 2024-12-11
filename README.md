@@ -15,13 +15,6 @@
    bun run dev
    ```
 
-### Local Deployment 🌐
-
-1. `bun run build` to build the project.
-
-2. `bun run serve` to serve the project.
-   > Remember to update `basePath` in `next.config.ts` as needed.
-
 [![Buy Me A Coffee][coffee]](https://buymeacoffee.com/eesuhn)
 
 <!-- Badges -->
