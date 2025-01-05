@@ -2,7 +2,7 @@ import type { NextConfig } from 'next';
 
 const isProduction = process.env.NODE_ENV === 'production';
 
-const baseUrl = isProduction ? '/next-starter' : '';
+const baseUrl = isProduction ? '/next-gh-starter' : '';
 
 const nextConfig: NextConfig = {
   output: 'export',

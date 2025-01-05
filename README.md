@@ -1,4 +1,4 @@
-## `next-starter`
+## `next-gh-starter`
 
 ![nextjs][nextjs] ![shadcn][shadcn] ![bun][bun]
 
@@ -7,7 +7,7 @@
 > [!IMPORTANT]
 > Install `Bun` before proceeding. <br> `curl -fsSL https://bun.sh/install | bash`
 
-1. `bun install` to install all necessary dependencies.
+1. `bun i` to install all necessary dependencies.
 
 2. Start the development server for `Next.js`:
 

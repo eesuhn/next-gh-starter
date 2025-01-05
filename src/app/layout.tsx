@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'next-starter',
+  title: 'next-gh-starter',
   description: 'Starter for Next.js',
 };
 
